@@ -5,3 +5,4 @@ class Person
 end
   
   Person.new
+  person.walk
