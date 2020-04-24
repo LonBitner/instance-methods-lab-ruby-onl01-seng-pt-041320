@@ -1,5 +1,5 @@
-class = Dog
-  puts "Woof"
+class Dog
+  puts "Woof!"
   end
 end
 
