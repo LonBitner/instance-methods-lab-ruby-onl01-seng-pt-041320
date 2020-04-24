@@ -4,5 +4,5 @@ class Person
   end    
 end
   
-lon Person.new
-  person.walk
+lon = Person.new
+lon.walk
